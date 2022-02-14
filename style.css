@@ -187,7 +187,7 @@
 
 
 
-/* ********************************************************* */
+/* ******************for phone*************************************** */
 
 
 
@@ -213,8 +213,7 @@
            grid-template-columns: 1fr;
     }
    
-          
-     
+              
      .FirstContainer{ 
          /* border: 5px solid pink; */
          background-color: rgb(31, 187, 135);
@@ -307,7 +306,7 @@
            .grnbox1{
                /* border:5px solid yellow; */
                height: 50px;
-               background-color: orangered;
+               background-color: aquamarine;
                height: 50px;
                width: 200px;
                margin-left: auto;
